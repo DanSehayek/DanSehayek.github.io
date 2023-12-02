@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-08-20T00:39:04.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.4.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="amjT0BvV0g8Tx5tYg4Xy" version="21.4.0" type="device">
+  <diagram name="Page-1" id="i33HMpCcBlu6hxJcUhUw">
+    <mxGraphModel dx="956" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\varphi=0$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-7" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;$$\varphi=\pi$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="375" y="330" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="02vmy4cNzRHUN8nZPoUq-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone;rotation=-180;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="375" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
